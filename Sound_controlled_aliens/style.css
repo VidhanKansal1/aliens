@@ -1,0 +1,15 @@
+body{
+    background-color:pink;
+    font-family: 'Raleway', sans-serif;
+}
+.header_div{
+background-color: white;
+color: red;
+}
+.header_div p{
+font-family: 'Roboto Serif', serif;
+color: grey;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
